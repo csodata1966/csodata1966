@@ -27,28 +27,6 @@ Meu foco atual é **Engenharia de Dados**, com Cloud, IA e automação como áre
 - **Oportunidades:** atuação remota em modalidades CLT, PJ ou projetos freelance, incluindo vagas afirmativas PcD.
 - **Portfólio em preparação:** Universo Dados — `universodados.com.br`. O link será adicionado quando o site estiver pronto.
 
-## Projeto em destaque: Essência Prateada
-
-O **[Essência Prateada](https://www.essenciaprateada.com.br/)** é meu projeto voltado ao público 60+ e seus familiares, com conteúdo sobre segurança digital, autonomia e qualidade de vida. Ele também é um ambiente de aplicação prática dos meus conhecimentos em tecnologia e negócios.
-
-### Automação de captação e entrega de e-books na AWS
-
-Desenvolvimento do projeto **[ep-marketing-automation](https://github.com/csodata1966/ep-marketing-automation)**, conectando o portal a serviços de captação de contatos, confirmação de inscrição, envio de e-mails e disponibilização de e-books.
-
-- Infraestrutura serverless definida com **AWS SAM**.
-- Integração de **API Gateway, Lambda, DynamoDB, SQS, SES e S3**.
-- Fluxos de confirmação de inscrição e download com tokens e armazenamento privado.
-- Processamento assíncrono de e-mails, com fila e fila de mensagens não processadas (DLQ).
-- Desenvolvimento em **Python**, com testes e verificações de qualidade de código.
-
-### Automação de conteúdo e operação do portal
-
-- Fluxos com **n8n em Docker**, integração com a API da OpenAI e publicação de textos no Telegram.
-- Portal em **WordPress**, com Elementor, formulários e ferramentas de SEO.
-- Integração entre conteúdo, captação de contatos e distribuição de materiais educativos.
-
-**Contexto:** projeto próprio em evolução. Novas funcionalidades são incorporadas e documentadas conforme o desenvolvimento.
-
 ## Experiência profissional
 
 ### IBM | junho de 2021 a julho de 2026
