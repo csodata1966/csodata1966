@@ -8,7 +8,7 @@
 
 Taubaté, São Paulo, Brasil • Profissional PcD • Interesse em trabalho remoto
 
-[LinkedIn](https://www.linkedin.com/in/carlos-oliveira-ds/) · [E-mail](mailto:csodata1966@gmail.com) · [Essência Prateada](https://www.essenciaprateada.com.br/)
+[LinkedIn](https://www.linkedin.com/in/carlos-oliveira-ds/) · [E-mail](mailto:csodata1966@gmail.com) 
 
 </div>
 
