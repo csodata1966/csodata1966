@@ -156,7 +156,6 @@ Tenho interesse em colaborar com equipes e projetos que conectem **dados, tecnol
 - **LinkedIn:** [Carlos Oliveira](https://www.linkedin.com/in/carlos-oliveira-ds/)
 - **E-mail:** [csodata1966@gmail.com](mailto:csodata1966@gmail.com)
 - **GitHub:** [csodata1966](https://github.com/csodata1966)
-- **Projeto próprio:** [Essência Prateada](https://www.essenciaprateada.com.br/)
 
 ---
 
@@ -173,34 +172,6 @@ Os grupos abaixo distinguem ferramentas aplicadas em experiências e projetos da
 ![IBM watsonx Assistant](https://img.shields.io/badge/IBM%20watsonx%20Assistant-17365D?style=for-the-badge)
 ![ERP Datasul TOTVS](https://img.shields.io/badge/ERP%20Datasul%20TOTVS-17365D?style=for-the-badge)
 ![Draw.io / diagrams.net](https://img.shields.io/badge/Draw.io%20%2F%20diagrams.net-17365D?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-
-### Aplicadas no projeto Essência Prateada
-
-![Python](https://img.shields.io/badge/Python-17365D?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-17365D?style=for-the-badge)
-![AWS SAM](https://img.shields.io/badge/AWS%20SAM-17365D?style=for-the-badge)
-![Lambda](https://img.shields.io/badge/Lambda-17365D?style=for-the-badge)
-![API Gateway](https://img.shields.io/badge/API%20Gateway-17365D?style=for-the-badge)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-17365D?style=for-the-badge)
-![SQS](https://img.shields.io/badge/SQS-17365D?style=for-the-badge)
-![SES](https://img.shields.io/badge/SES-17365D?style=for-the-badge)
-![S3](https://img.shields.io/badge/S3-17365D?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-17365D?style=for-the-badge&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-17365D?style=for-the-badge&logo=docker&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-17365D?style=for-the-badge)
-![Telegram](https://img.shields.io/badge/Telegram-17365D?style=for-the-badge&logo=telegram&logoColor=white)
-![Git](https://img.shields.io/badge/Git-17365D?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-17365D?style=for-the-badge&logo=github&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-17365D?style=for-the-badge&logo=pytest&logoColor=white)
-![Ruff](https://img.shields.io/badge/Ruff-17365D?style=for-the-badge&logo=ruff&logoColor=white)
-![mypy](https://img.shields.io/badge/mypy-17365D?style=for-the-badge)
-![Boto3](https://img.shields.io/badge/Boto3-17365D?style=for-the-badge)
-![WordPress](https://img.shields.io/badge/WordPress-17365D?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-17365D?style=for-the-badge&logo=elementor&logoColor=white)
-![Yoast SEO](https://img.shields.io/badge/Yoast%20SEO-17365D?style=for-the-badge&logo=yoast&logoColor=white)
-![Contact Form 7](https://img.shields.io/badge/Contact%20Form%207-17365D?style=for-the-badge)
-![Flamingo](https://img.shields.io/badge/Flamingo-17365D?style=for-the-badge)
-![Hostinger](https://img.shields.io/badge/Hostinger-17365D?style=for-the-badge&logo=hostinger&logoColor=white)
 
 ### Conhecimentos e formação complementar
 
